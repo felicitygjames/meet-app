@@ -1,0 +1,161 @@
+@media only screen and (max-width: 1024px) {
+
+    .app__navigation-bar {
+        padding: 15px 70px;
+    }
+
+    .data-visualization__container {
+        padding: 20px 70px;
+    }
+
+    .event-list__title {
+        margin-left: 70px;
+      }
+
+    .event-list {
+        padding: 8px 70px 48px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .App {
+        height: calc(100vh + 900px)
+    }
+    
+    .app__navigation-bar {
+        padding: 15px 40px;
+
+    }
+
+    .data-visualization__container {
+        padding: 20px 40px;
+        height: 900px;
+
+        .charts__container {
+            grid-template-columns: 1fr;
+        }
+    }
+    .event-number__container {
+        .custom-spinners {
+            display: none;
+        }
+
+        .number-of-events__input {
+            padding: 16px 0px 16px 48px;
+        }
+    }
+
+    .event-list__title {
+        margin-left: 40px;
+      }
+
+    .event-list {
+        padding: 8px 40px 48px;
+    }
+
+
+}
+
+@media only screen and (max-width: 425px) {
+
+    .app__navigation-bar {
+        padding: 15px 20px;
+        flex-direction: column;
+
+        .logo__container {      
+            .logo {
+              margin: 0;
+            }
+          }
+
+        .nav-inputs__container {
+            width: 100%;
+          }
+    }
+
+    .data-visualization__container {
+        padding: 20px 20px;
+        margin-top: 120px;
+    }
+
+    .city-search__container {
+        width: 80%;
+        float: left;
+        
+        .city-search__input {
+            margin-bottom: 0;
+        }
+    }
+
+    
+    .event-list__title {
+        margin-top: 24px;
+        margin-left: 20px;
+    }
+
+    .event-list {
+       padding: 8px 20px 48px;
+    }
+
+    .event-item__container {
+        padding-bottom: 30px;
+
+        .event-data__collapsed {
+            .event-data__flex {
+
+                .date__container {
+          
+                    .date_icon {
+                      margin-right: 8px;
+                    }
+                  }
+
+                h1 {
+                    font-size: 20px;
+                    width: 65%;
+                    line-height: 24px;
+                    margin-bottom: 8px;
+                }
+                p {
+                    width: 35%;
+                    text-align: right;
+                    font-size: 12px;
+                }
+            }
+
+            .location__container {
+                .location_icon {
+                  margin-right: 8px;
+                }
+              }
+
+            p {
+                width: 50%;
+                font-size: 12px;
+            }
+        }
+        .event-data__expanded {
+            h2 {
+                font-size: 16px;
+            }
+            a {
+                font-size: 12px;
+            }
+        }
+        .event-item__details-button {
+            font-size: 12px;
+        }
+    }
+    
+}
+
+@media (hover: none) {
+    .event-number__container {
+        .custom-spinners {
+            display: none;
+        }
+    }
+
+  }

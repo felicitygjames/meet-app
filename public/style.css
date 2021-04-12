@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    padding: 40px;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+header img {
+    height: 40px;
+    margin-right: 24px;
+}
+
+section div {
+    display: flex;
+    align-items: center;
+}
+
+section div h2 {
+    margin-right: 20px;
+}
+
+section div p {
+    font-size: 14px;
+    font-style: italic;
+}
+
+
+@media only screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+
+    header img {
+        height: 40px;
+        margin: 0;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    section div {
+        flex-direction: column;
+    }
+
+    section div h2 {
+        margin: 0;
+    }
+    
+    section div p {
+        font-size: 14px;
+        font-style: italic;
+        margin: 0;
+    }
+
+    section p {
+        text-align: center;
+    }
+
+}
