@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/meet-app/static/css/main.e7dba102.chunk.css",
+    "main.js": "/meet-app/static/js/main.bac8bc8c.chunk.js",
+    "main.js.map": "/meet-app/static/js/main.bac8bc8c.chunk.js.map",
+    "runtime-main.js": "/meet-app/static/js/runtime-main.002c5235.js",
+    "runtime-main.js.map": "/meet-app/static/js/runtime-main.002c5235.js.map",
+    "static/js/2.294ff8e2.chunk.js": "/meet-app/static/js/2.294ff8e2.chunk.js",
+    "static/js/2.294ff8e2.chunk.js.map": "/meet-app/static/js/2.294ff8e2.chunk.js.map",
+    "static/js/3.252f23e5.chunk.js": "/meet-app/static/js/3.252f23e5.chunk.js",
+    "static/js/3.252f23e5.chunk.js.map": "/meet-app/static/js/3.252f23e5.chunk.js.map",
+    "index.html": "/meet-app/index.html",
+    "service-worker.js": "/meet-app/service-worker.js",
+    "service-worker.js.map": "/meet-app/service-worker.js.map",
+    "static/css/main.e7dba102.chunk.css.map": "/meet-app/static/css/main.e7dba102.chunk.css.map",
+    "static/js/2.294ff8e2.chunk.js.LICENSE.txt": "/meet-app/static/js/2.294ff8e2.chunk.js.LICENSE.txt",
+    "static/media/alert-icon.b19a0bd1.svg": "/meet-app/static/media/alert-icon.b19a0bd1.svg",
+    "static/media/calendar-icon.38d7d133.svg": "/meet-app/static/media/calendar-icon.38d7d133.svg",
+    "static/media/close-icon.d2eacc0f.svg": "/meet-app/static/media/close-icon.d2eacc0f.svg",
+    "static/media/connection-icon.8e76d38d.svg": "/meet-app/static/media/connection-icon.8e76d38d.svg",
+    "static/media/down-icon.b3c580d0.svg": "/meet-app/static/media/down-icon.b3c580d0.svg",
+    "static/media/down2-icon.400e159b.svg": "/meet-app/static/media/down2-icon.400e159b.svg",
+    "static/media/filter-icon.90f895e8.svg": "/meet-app/static/media/filter-icon.90f895e8.svg",
+    "static/media/info-icon.49019fd1.svg": "/meet-app/static/media/info-icon.49019fd1.svg",
+    "static/media/location-icon.65631a10.svg": "/meet-app/static/media/location-icon.65631a10.svg",
+    "static/media/logo.caac0edc.svg": "/meet-app/static/media/logo.caac0edc.svg",
+    "static/media/search-icon.1ccd3d43.svg": "/meet-app/static/media/search-icon.1ccd3d43.svg",
+    "static/media/up-icon.c9f7e0a1.svg": "/meet-app/static/media/up-icon.c9f7e0a1.svg",
+    "static/media/up2-icon.060b197b.svg": "/meet-app/static/media/up2-icon.060b197b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.002c5235.js",
+    "static/js/2.294ff8e2.chunk.js",
+    "static/css/main.e7dba102.chunk.css",
+    "static/js/main.bac8bc8c.chunk.js"
+  ]
+}
